@@ -1,0 +1,1 @@
+https://start.spring.io/starter.zip?name=wfm-algafood-api&groupId=com.algaworks&artifactId=wfm-algafood-api&version=0.0.1-SNAPSHOT&description=API+de+Delivery+de+Comida&packageName=com.algaworks.algafood&type=maven-project&packaging=jar&javaVersion=17&language=java&bootVersion=2.6.0-M3&dependencies=web
